@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! Thanks for dropping by. 👋
+
+I'm a full stack software engineer currently on internal tools to modernize logistics for [Revlogical](https://www.revlogical.com/). 
 
 <!--
 **shawnlikescode/shawnlikescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
