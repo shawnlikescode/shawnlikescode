@@ -1,6 +1,6 @@
 # Hey! Thanks for dropping by. 👋
 
-I'm a full stack software engineer. I'm currently working internal tools at [Revlogical](https://www.revlogical.com/) where we're leveraging TypeScript, NextJs, MySql, Postgres, Firebase, Expo, and bunch of other technologies to modernize logistics. I'm also participating in a fellowship with [Formation](https://www.formation.dev) where I work closely with talented engineers from companies like Netflix, Google, and Meta to improve my engineering skills.
+I'm a full stack software engineer. I'm currently working internal tools at [RevLogical](https://www.revlogical.com/) where I work with TypeScript, NextJS, MySQL, Postgres, Firebase, Expo, and bunch of other technologies to modernize logistics with internal inventory tools and mobile applications. I'm also participating in a fellowship with [Formation](https://www.formation.dev) where I work closely with talented engineers from companies like Netflix, Google, and Meta to improve my engineering skills.
 
 
 ### Connect With Me
